@@ -3,7 +3,8 @@ How to Run the Activation Script
 This method is the most convenient and works on Windows 8.1, 10, and 11.
 
 Click the Start Menu, type PowerShell, and open it.
-Copy and paste the code below and press Enter.
+Copy and paste the code below and press Enter.                                         
+
 irm https://get.activated.win | iex
 
 In the menu that appears, type the number corresponding to one of the Green options.
